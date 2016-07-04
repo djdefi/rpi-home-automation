@@ -13,4 +13,4 @@ Docker based home automation running on a Raspberry Pi .
 * [DuckDNS](https://github.com/djdefi/docker-duckdns) - Dynamic DNS
 * [Home Assistant](https://github.com/djdefi/docker-rpi-home-assistant) - https://home-assistant.io
 * [nginx proxy](https://github.com/djdefi/rpi-nginx-proxy) - Reverse proxy
-* [Let's Encrypt nginx proxy helper](https://github.com/djdefi/docker-letsencrypt-nginx-proxy-companion) - SSL Certs
+* [Let's Encrypt nginx proxy helper](https://github.com/djdefi/docker-letsencrypt-nginx-proxy-companion) - [Let's Encrypt](https://letsencrypt.org/) SSL Certs
