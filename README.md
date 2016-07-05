@@ -13,9 +13,9 @@ Docker based home automation running on a Raspberry Pi .
 
 Conversions to ARM and other tweaks.
 
-* [RPi alpine scratch](https://github.com/djdefi/rpi-alpine-scratch)
-* [nginx](https://github.com/djdefi/rpi-nginx)
+* [RPi alpine scratch](https://github.com/djdefi/rpi-alpine-scratch) - Used as a base image
+* [nginx](https://github.com/djdefi/rpi-nginx) - Used as a base image
 * [DuckDNS](https://github.com/djdefi/docker-duckdns) - Dynamic DNS
 * [Home Assistant](https://github.com/djdefi/docker-rpi-home-assistant) - https://home-assistant.io
-* [nginx proxy](https://github.com/djdefi/rpi-nginx-proxy) - Reverse proxy
-* [Let's Encrypt nginx proxy helper](https://github.com/djdefi/docker-letsencrypt-nginx-proxy-companion) - [Let's Encrypt](https://letsencrypt.org/) SSL Certs
+* [nginx proxy](https://github.com/djdefi/rpi-nginx-proxy) - Reverse proxy for services
+* [Let's Encrypt nginx proxy helper](https://github.com/djdefi/docker-letsencrypt-nginx-proxy-companion) - [Let's Encrypt](https://letsencrypt.org/) Automatic SSL Certs
