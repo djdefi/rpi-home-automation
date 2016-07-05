@@ -7,9 +7,12 @@ Docker based home automation running on a Raspberry Pi .
 * [Bloomsky](https://www.bloomsky.com/#product) - Weather station
 
 ## Base OS
-* [Hypriot OS](http://blog.hypriot.com/downloads/) - Docker ready to rock
+* [Hypriot OS](http://blog.hypriot.com/downloads/) - Docker RPi image ready to rock and roll
 
 ## Custom RPi Containers
+
+Conversions to ARM and other tweaks.
+
 * [RPi alpine scratch](https://github.com/djdefi/rpi-alpine-scratch)
 * [nginx](https://github.com/djdefi/rpi-nginx)
 * [DuckDNS](https://github.com/djdefi/docker-duckdns) - Dynamic DNS
