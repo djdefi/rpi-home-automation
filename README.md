@@ -6,7 +6,7 @@ Docker based home automation running on a Raspberry Pi .
 * [Raspberry Pi 2 (Starter Kit from Canakit.com)](https://www.canakit.com/raspberry-pi-starter-kit.html)
 * [Bloomsky](https://www.bloomsky.com/#product) - Weather station
 * [FireTV Stick](https://smile.amazon.com/Amazon-Fire-TV-Stick-Streaming-Media-Player/dp/B00GDQ0RMG/) - Media
-* 
+
 ## Base OS
 * [Hypriot OS](http://blog.hypriot.com/downloads/) - Docker RPi image ready to rock and roll
 
