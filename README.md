@@ -1,6 +1,6 @@
 # rpi-home-automation
 
-Docker based home automation running on a Raspberry Pi .
+Docker based home automation server running on a Raspberry Pi.
 
 ## Hardware
 * [Raspberry Pi 2 (Starter Kit from Canakit.com)](https://www.canakit.com/raspberry-pi-starter-kit.html)
@@ -21,4 +21,5 @@ Conversions to ARM and other tweaks.
 * [nginx proxy](https://github.com/djdefi/rpi-nginx-proxy) - Reverse proxy for services
 * [Let's Encrypt nginx proxy helper](https://github.com/djdefi/docker-letsencrypt-nginx-proxy-companion) - [Let's Encrypt](https://letsencrypt.org/) Automatic SSL Certs
 * [firetv-server](https://github.com/djdefi/rpi-firetvserver) - Control Amazon FireTV
+* [ProFTPD](https://github.com/djdefi/rpi-docker-proftpd) - FTP target for Foscam capture
 * [Jenkins](https://github.com/djdefi/rpi-jenkins) - Automate Docker image builds
