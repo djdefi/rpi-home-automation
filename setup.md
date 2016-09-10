@@ -3,9 +3,7 @@
 2) OS updates and packages
 ```
 sudo apt-get update
-sudo apt-get install docker-compose
-sudo apt-get install qemu-user-static
-sudo apt-get install vim
+sudo apt-get install -y vim rsync
 sudo apt-get upgrade
 ```
 3) Configure time
