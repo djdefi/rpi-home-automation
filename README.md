@@ -24,3 +24,8 @@ Conversions to ARM and other tweaks.
 * [firetv-server](https://github.com/djdefi/rpi-firetvserver) - Control Amazon FireTV
 * [ProFTPD](https://github.com/djdefi/rpi-docker-proftpd) - FTP target for Foscam capture
 * [Jenkins](https://github.com/djdefi/rpi-jenkins) - Automate Docker image builds
+
+## Non-containerized
+
+* [Transmission](https://github.com/transmission/transmission)
+* [ZeroTier](https://github.com/zerotier/ZeroTierOne)
