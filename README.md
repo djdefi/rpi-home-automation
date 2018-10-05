@@ -9,7 +9,7 @@ Docker based home automation server running on a Raspberry Pi.
 * [Foscam FI9900P Outdoor HD 1080P Wireless IP Camera](https://amzn.com/B011US2ADK)
 
 ## Base OS
-* [Hypriot OS](http://blog.hypriot.com/downloads/) - Docker RPi image ready to rock and roll
+* [Hypriot OS](http://blog.hypriot.com/downloads/) - Docker RPi image
 
 ## Custom RPi Containers
 
