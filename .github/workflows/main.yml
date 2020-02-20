@@ -8,8 +8,6 @@ jobs:
     - uses: actions/checkout@v2
       with:
         fetch-depth: '0'
-    - run: |
-        git fetch --prune --unshallow
     - name: Git AV Scan
       uses: djdefi/gitavscan@v1
       with:
